@@ -1,4 +1,4 @@
-# MindsDB DeveloperCare Chatbot
+# Project discontinued
 
 ## 🚀 A chatbot that solves the technical problems that people have in the #questions channel of MindsDB.
 
@@ -17,23 +17,3 @@ The database stores the MindsDB technical WIKI and all the solutions that have b
 2. It improves the overall user experience of MindsDB.
 3. How to use it
 
-### To use the MindsDB chatbot, simply type your question into the chat box and press enter. The chatbot will then generate a response to your question.
-
-#### Examples
-
-##### Here are some examples of how to use the MindsDB chatbot:
-
-Q: How do I create a new database in MindsDB?
-A: To create a new database in MindsDB, you can use the following command:
-CREATE DATABASE database_name
-Q: How do I query a MindsDB database?
-A: To query a MindsDB database, you can use the following command:
-SELECT * FROM table_name
-Q: How do I train a MindsDB model?
-A: To train a MindsDB model, you can use the following command:
-TRAIN model_name ON table_name
-
-* 🚀 Provides a valuable resource for users
-* 💡 Reduces the workload on the MindsDB team
-* 🎉 Improves the overall user experience of MindsDB
-I hope this helps!
