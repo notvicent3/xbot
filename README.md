@@ -18,4 +18,4 @@ The database stores the MindsDB technical WIKI and all the solutions that have b
 3. How to use it
 
 
-See LICENSE for understand what is private propierty and how you can use the GNU Public License.
+See LICENSE for understand what is private property and how you can use the GNU Public License.
